@@ -22,7 +22,7 @@ public class BtwExtractor {
     private static final int STRING_EXTENDED_SEQUENCE_LENGTH_TYPE_LENGTH = 2;
     private static final int PNG_SEQUENCE_LENGTH_TYPE_LENGTH = 4;
     public static void main(String[] args) throws Exception {
-        String filename = "C:\\Users\\owenj\\Documents\\Cannabis+Track+and+Trace.btw";
+        String filename = "test2.btw";
         boolean isExtract = true;
 
         byte[] fileData;
